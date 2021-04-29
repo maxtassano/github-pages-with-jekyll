@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Max Tassano's Homepage"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome fellow human!
