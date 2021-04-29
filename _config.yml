@@ -1,8 +1,7 @@
 title: Max Tassano
 author: GitHub User
 email: max.tassano@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-This is a test site for Max Tassano to experiment and learn web design
+description: This is a test site for Max Tassano to experiment and learn web design
 
 # social links
 twitter_username: MaxTassano # DO NOT include the @ character, or else the build will fail!
